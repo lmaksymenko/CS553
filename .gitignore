@@ -1,0 +1,3 @@
+*.csv
+cs553_env/
+.ipynb_checkpoints
